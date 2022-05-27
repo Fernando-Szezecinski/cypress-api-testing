@@ -1,0 +1,23 @@
+{
+  "name": "cypress-api-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:o":"cypress open",
+    "cy:r":"cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernando-Szezecinski/cypress-api-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernando-Szezecinski/cypress-api-testing/issues"
+  },
+  "homepage": "https://github.com/Fernando-Szezecinski/cypress-api-testing#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
